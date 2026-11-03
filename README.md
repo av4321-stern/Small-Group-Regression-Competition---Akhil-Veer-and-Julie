@@ -1,5 +1,5 @@
 ## Contents
-- `house_price_model.ipynb`: full walkthrough of our final model with commentary (start here)
+- `house_price_model.ipynb`: full walkthrough of our final model with commentary
 - `train.csv`, `test.csv`: competition data
 
 ## Approach
@@ -12,12 +12,7 @@
 Only scikit-learn estimators are used.
 
 ## Results
-Kaggle public leaderboard RMSE: [add final score] (rank [N] of 28)
+Kaggle public leaderboard RMSE: Final score of 54120.67837
 
 ## How to run
 Install numpy, pandas and scikit-learn, open `house_price_model.ipynb`, and run all cells. It writes `preds.csv`.
-
-## Contributions
-- Akhil: [what you did]
-- Veer: [what Veer did]
-- Julie: [what Julie did]
